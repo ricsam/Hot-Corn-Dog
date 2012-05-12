@@ -1,0 +1,6 @@
+{
+"shell-version": ["3.4.1"],
+"uuid": "Hot-Corn-Dog.euhiemf@github.com",
+"name": "Hot-Corn-Dog",
+"description": "This is a GNOME Shell extension where you can pick your own hot-corners for toggling the overview, or for running custom applications. You can also change the hot-corner for the message tray."
+}
